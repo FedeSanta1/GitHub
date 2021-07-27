@@ -1,0 +1,29 @@
+$font-size: 3em; 
+
+h1 {
+    color:  rgba(232, 161, 238, 0.836);
+    text-align: center;
+    font-size: $font-size*0.8+1;
+}
+p {
+    font-size: $font-size/2;
+    color: black;
+    font-weight: bold;
+}
+.textoIndex {
+    margin-top: 65px;
+}
+h2 {
+    margin: 30px;
+    padding: 30px;
+    margin-top: 50px;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.linksWeb {
+    color: red;
+}
+.linksWeb:hover {
+    color: red;
+}
